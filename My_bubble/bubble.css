@@ -1,0 +1,19 @@
+body{
+    background-color: #000;
+    background-image: url(bg3.jpg);
+}
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(bubble.jpg); 
+    border-radius: 50%;
+    position: absolute;
+}
